@@ -1,0 +1,1 @@
+This repository demonstrates a common Java runtime exception: ArrayIndexOutOfBoundsException. The `Bug.java` file contains code that attempts to access an array element using an invalid index. The solution shows how to properly handle array indices to avoid this exception. This is a crucial concept for any Java developer.
